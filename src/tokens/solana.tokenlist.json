@@ -75357,6 +75357,11 @@
       "decimals": 4,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cu1mWsE3JeEzMz1AzHezDJ99a45KheQWxWpLPkHKtsxu/logo.png",
       "tags": [ "social-token", ] 
+
+      "extensions": {
+        "coingeckoId": "Hunt Crypto Rewards",
+        
+      }
 },
 
 
